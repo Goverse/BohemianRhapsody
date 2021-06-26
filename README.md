@@ -1,2 +1,1 @@
-# BohemianRhapsody
-Mama, life had just begun
+# 这里记录我日常的学习总结
